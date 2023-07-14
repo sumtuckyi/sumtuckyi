@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
  
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumtuckyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumtuckyi&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sumtuckyi/sumtuckyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
